@@ -2,5 +2,5 @@ class sum:
     def Sum(a,b):
         c=a+b
         return c
-    print(Sum(1,2))
+    print("Sum is :",Sum(1,2))
 
